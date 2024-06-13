@@ -1,0 +1,63 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "age": 20,
+            "major": "Computer Science",
+            "gpa": 3.8,
+            "courses": [
+                {
+                    "course_id": "CS101",
+                    "course_name": "Introduction to Programming",
+                    "grade": "A"
+                },
+                {
+                    "course_id": "MATH101",
+                    "course_name": "Calculus I",
+                    "grade": "A-"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "age": 22,
+            "major": "Mechanical Engineering",
+            "gpa": 3.6,
+            "courses": [
+                {
+                    "course_id": "ME201",
+                    "course_name": "Thermodynamics",
+                    "grade": "B+"
+                },
+                {
+                    "course_id": "PHYS101",
+                    "course_name": "General Physics I",
+                    "grade": "A"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Charlie Brown",
+            "age": 21,
+            "major": "Mathematics",
+            "gpa": 3.9,
+            "courses": [
+                {
+                    "course_id": "MATH201",
+                    "course_name": "Linear Algebra",
+                    "grade": "A"
+                },
+                {
+                    "course_id": "CS201",
+                    "course_name": "Data Structures",
+                    "grade": "A-"
+                }
+            ]
+        }
+    ]
+}
+
+
